@@ -9,6 +9,7 @@ function setCardType(type) {
   const colors = {
     visa: ["#436D99", "#2D57F2"],
     mastercard: ["#DF6F29", "#C69347"],
+    rocketseat: ["#0D6F5D", "#C3129C"],
     default: ["black", "gray"],
   }
 
